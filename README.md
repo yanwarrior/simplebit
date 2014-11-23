@@ -49,6 +49,7 @@ hasilnya :
 >>> from simplebit import *
 >>> file2Bit('D:/Folder.jpg')
 ```
+Hasilnya :
 ```
 >>> 
 [
